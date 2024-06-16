@@ -7,7 +7,7 @@
 ## Наши проекты
 
 - [TempTapes](https://github.com/moad-dev/TempTapes) – приложение для создания хронологических лент
-- [Отзывус](https://github.com/moad-dev/otzyvus) – сервис для сбора и анализа отзывов на элективы
+- [Отзывус](https://github.com/moad-dev/otzyvus) – сервис для сбора и анализа отзывов на учебные курсы
 - [rcs-vacancy](https://github.com/moad-dev/rcs-vacancy) – модуль для разбиения вакансий на элементы (решение кейса на хакатоне ЦПИИ УрФО 2023, 4 место)
 - [promobot-reports](https://github.com/moad-dev/promobot-reports) – приложение для обработки жалоб граждан (решение кейса на международном хакатоне ЦПИИ 2023, 6 место)
 - [bureclass](https://github.com/moad-dev/bureclass) – приложение для приведения номенклатуры к классификатору строительных ресурсов (решение кейса на хакатоне ЦПИИ УрФО 2024, 2 место)
